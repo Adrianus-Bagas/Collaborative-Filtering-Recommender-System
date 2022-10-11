@@ -1,1 +1,3 @@
 # Collaborative-Filtering-Recommender-System
+
+Selain menonton film, bertamasya adalah salah satu kegiatan yang dilakukan saat refreshing. Setelah sekian lama, akhirnya tempat wisata mulai dibuka semenjak pandemi COVID-19. Tentunya masyarakat memerlukan rekomendasi tempat wisata yang dapat dikunjungi. Proyek ini membahas mengenai sistem rekomendasi tempat wisata di lima kota Pulau Jawa yaitu Jakarta, Bandung, Semarang, Jogjakarta, dan Surabaya. Pendekatan sistem rekomendasi yang digunakan adalah Collaborative Filtering yang memberikan rekomendasi berdasarkan rating dari pengunjung. Proyek ini terinspirasi dari https://www.kaggle.com/code/rafkaip/sistem-rekomendasi-destinasi-wisata-kota-bandung
